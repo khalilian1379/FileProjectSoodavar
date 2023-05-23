@@ -105,3 +105,19 @@
   text-align: center;
   margin-top: 1rem;
 }
+
+.icon_margin {
+  margin-right: 30px;
+}
+
+.icon_margin_instagram {
+  margin-right: 900px;
+}
+
+.icon_margin_gmail {
+  margin-right: 400px;
+}
+
+.footer_margin{
+  margin-top: 500px;
+}
